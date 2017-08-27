@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core">
+	<xp:this.resources>
+		<xp:styleSheet href="/footer.css"></xp:styleSheet>
+	</xp:this.resources>
+	<div class="navbar navbar-fixed-bottom">
+		<div class="navbar-bottom">
+			<div class="container-fluid footerback">
+				<a class="btn btn-navbar btn-navbar-footer" data-toggle="collapse" data-target="#mobilemenu_bottom">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+				<div id="mobilemenu_bottom" class="nav-collapse">
+					<ul class="nav">
+						<li><a href="http://www.openntf.org">Hosted by OpenNTF</a></li>
+						<li><a href="http://openntf.org/legal/terms">Terms of use</a></li>
+						<li><a href="http://openntf.org/legal/privacypolicy">Privacy Policy</a></li>
+						<li><a href="http://openntf.org/Internal/home.nsf/dx/Contact_OpenNTF">Contact OpenNTF</a></li>
+						<li><a href="http://openntf.org/Internal/home.nsf/dx/Follow_OpenNTF">Follow OpenNTF</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</xp:view>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="37e" sequence="14" unid="E9DCDCFB3C73FCA0C2257B2600344BE9">
+<created><datetime dst="true">20130306T123113,05+03</datetime></created>
+<modified><datetime>20170713T000003,05+09</datetime></modified>
+<revised><datetime>20161204T080824,92+09</datetime></revised>
+<lastaccessed><datetime>20170713T000003,05+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000003,05+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name="$TITLE"><text>collaborationtoday_icon.png</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20120908T110321,00-07</datetime></item>
+<item name="$ImageNames" sign="true"><text>collaborationtoday_icon.png</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+</note>

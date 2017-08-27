@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="37a" sequence="9" unid="E8DA282E1148BAB3C2257B2600344B9F">
+<created><datetime dst="true">20130306T123112,31+03</datetime></created>
+<modified><datetime>20170713T000003,03+09</datetime></modified>
+<revised><datetime>20161204T080824,90+09</datetime></revised>
+<lastaccessed><datetime>20170713T000003,03+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000003,03+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name="$Flags"><text>D34C=Q</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$FileModDT" sign="true"><datetime>20101108T111401,00-05</datetime></item>
+<item name="$MimeCharSet" sign="true"><text>UTF-8</text></item>
+<item name="$TITLE" sign="true"><text>mypic.css</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>mypic.css</text></item></note>

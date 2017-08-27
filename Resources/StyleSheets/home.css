@@ -1,0 +1,67 @@
+/*
+@media以外
+*/
+.page-header{}
+
+@media screen and (min-width:300px) { 
+	.page-header {
+		margin-top:100px !important;
+	}
+}
+
+@media screen and (min-width:300px) and (max-width:331px) {
+	.page-header {
+		margin-top:120px !important;
+	};
+}
+
+@media screen and (min-width:331px) and (max-width:396px) {
+	.page-header {
+		margin-top:100px !important;
+	};
+}
+
+@media screen and (min-width:396px) and (max-width:600px) {
+	.page-header {
+		margin-top:65px !important;
+	};
+}
+
+@media screen and (min-width:600px) and (max-width:768px) {
+	.page-header {
+		margin-top:60px !important;
+	};
+}
+
+@media screen and (min-width:768px) and ( max-width:900px) {
+	.page-header {
+		margin-top:60px !important;
+	};
+}
+@media screen and (min-width:768px) and ( max-width:900px) {
+	.sidebar-nav {
+		margin-top:60px !important;
+	}
+}
+
+@media screen and (min-width:900px) and ( max-width:1024px) {
+	.page-header {
+		margin-top:60px !important;
+	};
+}
+@media screen and (min-width:900px) and ( max-width:1024px) {
+	.sidebar-nav {
+		margin-top:60px !important;
+	}
+}
+
+@media screen and (min-width:1024px) {
+	.page-header {
+		margin-top:10px !important;
+	};
+}
+@media screen and (min-width:1024px) {
+	.sidebar-nav {
+		margin-top:10px !important;
+	}
+}

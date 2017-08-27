@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xc="http://www.ibm.com/xsp/custom">
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container-fluid">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target="#mobilemenu_top">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+				<a class="brand" href="/">
+					Collaboration Today じゃぱ～～ん！
+				</a>
+				<!-- Dropdown for Categories for tablet only -->
+				<xp:panel tagName="ul" styleClass="nav nav-pills visible-tablet"
+					loaded="${compositeData.showCategories}">
+					<!-- Middle range wide category menu -->
+				</xp:panel>
+				<!--
+					<xp:div styleClass="pull-right">
+					<xp:this.loaded><![CDATA[${javascript:@UserName() !=
+					"Anonymous"}]]></xp:this.loaded>
+						<ul class="nav">
+							<li><xp:link escape="true" text="ログアウト" id="link1" themeId="Link.Logout" /></li>
+						</ul>
+					</xp:div>
+				-->
+				<div id="mobilemenu_top" class="nav-collapse">
+					<ul class="nav">
+						<li class="${javascript:view.pageName == '/home.xsp' ? 'active' : ''}">
+							<xp:link text="ホーム" themeId="Link.Home" />
+						</li>
+						<li class="${javascript:view.pageName == '/follow.xsp' ? 'active' : ''}">
+							<xp:link text="フォロー" themeId="Link.Follow" />
+						</li>
+						<li
+							class="${javascript:view.pageName == '/contact.xsp' ? 'active' : ''}">
+							<xp:link text="コンタクト" themeId="Link.Contact" />
+						</li>
+						<li class="${javascript:view.pageName == '/about.xsp' ? 'active' : ''}">
+							<xp:link text="サイトについて" themeId="Link.About" />
+						</li>
+						<xp:panel loaded="${javascript:configCache.isUserModerator(@UserName())}"
+							tagName="li"
+							styleClass="${javascript: !@IsMember(view.pageName, ['/home.xsp', '/follow.xsp', '/about.xsp', '/contact.xsp']) ? 'active' : ''}">
+							<xp:link text="管理" themeId="Link.Moderation" />
+							<li>
+								<xp:link escape="true" text="ログアウト" id="link1" themeId="Link.Logout" />
+							</li>
+						</xp:panel>
+					</ul>
+				</div>
+			</div>
+			<!-- Dropdown for Categories visible for phone only -->
+			<xp:div styleClass="container-fluid visible-phone" loaded="${compositeData.showCategories}">
+				<!-- Short range wide category menu -->
+			</xp:div>
+		</div>
+	</div>
+</xp:view>

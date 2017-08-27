@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.9'
+ replicaid='4925815B005265BB'>
+<noteinfo noteid='396' unid='F82CCDB90D95CC89C2257B2600344D78' sequence='4'>
+<created><datetime dst='true'>20130306T123117,04+03</datetime></created>
+<modified><datetime>20170713T000003,17+09</datetime></modified>
+<revised><datetime>20161204T080825,04+09</datetime></revised>
+<lastaccessed><datetime>20170713T000003,17+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000003,17+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name
+>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name='$TITLE'><text>$DBIcon</text></item>
+<item name='$Flags'><text>34Ci~Q</text></item>
+<item name='$ImagesWide' sign='true'><number>1</number></item>
+<item name='$ImagesHigh' sign='true'><number>1</number></item>
+<item name='$ImagesColorize' sign='true'><number>0</number></item>
+<item name='$FileSize' sign='true'><number>405</number></item>
+<item name='$ImageData' sign='true'>
+<rawitemdata type='1'>
+mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAH0AHAAAAAIAAAAAAJUBAAABAAAAAQAAAAAAAAB8
+AJ8BAACVAZYBiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAA
+AARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEqSURBVFhHYxCo3v1/IDHDQFoO
+snvUAaMhMBoCQyMEDHqP/A+YdxaMFVoOULXgwhsCIAvPP/34Hx3sv/MW7BhYIYahAIcASB96wYfT
+AQUbrhE0N2H5JbCBxAKiHQAK8vfffoHNBdEgx8Bc3rDzNtw+kBwoSmDRA6NhCkChhyznMPUkcSHQ
+f/A+3BKQhejBhuwIZMehRwk2HxMVBSCNMICtskL2NSi00NXA9JLtAFIMwOZAUvRjTYSkGDA8HYCc
+97H5EBTvoIQIwsjlAdUSIXIuwJbK5596Ak+k2LIWKVGINQ3gKgdAqR85C4JCiiZpAGQooZIQVAhh
+8z1yyUh2NoT5Cl9dgMtyqjoA5pABqw3p0WQfGg0SWobEwIcAb9K0/wOJGYDg/wDjEe4AAPgAaVl4
+hnnMAAAAAElFTkSuQmCCNg==
+</rawitemdata></item>
+<item name='$FileModDT' sign='true'><datetime>20130217T144202,16+02</datetime></item>
+<item name='$ImageNames' sign='true'><text>C:\Users\sbasegmez\Desktop\favicon.png</text></item>
+<item name='$DesignerVersion' sign='true'><text>8.5.3</text></item></note>
+

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.9' replicaid='4925815B005265BB'>
+<noteinfo noteid='11a' unid='ADB7A45D56757D92C1257A4100254423' sequence='13'>
+<created><datetime dst='true'>20120720T084702,75+02</datetime></created>
+<modified><datetime>20170827T125751,24+09</datetime></modified>
+<revised><datetime>20170827T125751,23+09</datetime></revised>
+<lastaccessed><datetime>20170827T125751,24+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000000,01+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Bruce Elgort/O=Sharepoint</name><name
+>CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Per Henrik Lausten/O=PHL Consult</name><name
+>CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name
+>CN=Domino Administrator/O=EFLAB</name><name>CN=Admin Domino/O=MLUG</name><name
+>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name='IconBitmap' summary='true' sign='true'>
+<rawitemdata type='6'>
+AiAgAQAA///////wD///gAH//gAAf/wAAD/4AAAf8AAAD+AAAAfgAAAHwAAAA8AAAAPAAAADgAAA
+AYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAHAAAADwAAAA8AAAAPgAAAH4AAAB/AAAA/4AAAf
+/AAAP/4AAH//gAH///AP//////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiAAAAAAAAAAAAAAI
+jPZmZm/IgAAAAAAAAAAIjGZmZmZmZsiAAAAAAAAAjGZmZmZmZmZmyAAAAAAACMZmZmZmZmZmZmyA
+AAAAAIxmZmZmZmZmZmZmyAAAAAjGZmZmZmZmZmZmZmyAAAAIZmbyL2byL2byL2ZmgAAAjGZmIiJm
+IiJmIiJmZsgAAIZmZiIiZiIiZiIiZmZoAADGZmYiImYiImYiImZmbAAI9mZmIiJmIiJmIiJmZm+A
+CGZmZiIiZiIiZiIiZmZmgAhmZmYiImYiImYiImZmZoAIZmZmIiJmIiJmIiJmZmaACGZvIiIiZiIi
+ZiIiIvZmgAhmYiIiImYiImYiIiImZoAIZm8iIi9m8i9m8iIi9maACPZmZmZmZmZmZmZmZmZvgADG
+ZmbyL2byL2byL2ZmbAAAj2ZmIiJmIiJmIiJmZvgAAIxmZiIiZiIiZiIiZmbIAAAI9mbyL2byL2by
+L2ZvgAAACMZmZmZmZmZmZmZmbIAAAACMZmZmZmZmZmZmZsgAAAAACMZmZmZmZmZmZmyAAAAAAACM
+9mZmZmZmZm/IAAAAAAAACIz2ZmZmZm/IgAAAAAAAAAAIiMZmZmyIgAAAAAAAAAAAAACIiIiIAAAA
+AAAAUEECICABAAD/////+A4DgA==
+</rawitemdata></item>
+<item name='$DBTheme' sign='true'><text>bootstrap.theme</text></item>
+<item name='$DefaultXPage' sign='true'><text>home.xsp</text></item>
+<item name='$TemplateServerName' sign='true'><text>CN=Atsushi Sato/OU=Japan/O=IBM</text></item>
+<item name='$PIRCRefreshModTime' sign='true'><datetime>20130307T152227,15+09</datetime></item>
+<item name='$TemplateModTime' sign='true'><datetime dst='true'>20130306T142210,43+03</datetime></item>
+<item name='$TemplateFileName' sign='true'><text>c:\Notes\Data\ct20130306.ntf</text></item>
+<item name='$LargeSummary' sign='true'><text>0</text></item>
+<item name='$Flags'><text>J7!</text></item>
+<item name='$LaunchXPageRunOnServer' sign='true'><text>0</text></item>
+<item name='$FlagsNoRefresh' sign='true'><text/></item>
+<item name='$Daos' sign='true'><text>0</text></item>
+<item name='$TITLE'><text>[NTF] Collaboration Today JP
+#1ctjp2</text></item></note>
+

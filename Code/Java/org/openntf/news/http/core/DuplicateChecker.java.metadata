@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2f2" sequence="149" unid="9FF9AAAE2340EEBDC2257B2600344D2D">
+<created><datetime dst="true">20130306T123116,29+03</datetime></created>
+<modified><datetime>20170713T000002,35+09</datetime></modified>
+<revised><datetime>20161204T080825,62+09</datetime></revised>
+<lastaccessed><datetime>20170713T000002,35+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000002,35+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>org/openntf/news/http/core/DuplicateChecker.java</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>org/openntf/news/http/core/DuplicateChecker.java</text></item>
+
+
+</note>

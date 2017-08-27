@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="22a" sequence="9" unid="422BC90ABD3C664BC2257B2600344BE6">
+<created><datetime dst="true">20130306T123113,02+03</datetime></created>
+<modified><datetime>20170713T000001,35+09</datetime></modified>
+<revised><datetime>20161204T080826,86+09</datetime></revised>
+<lastaccessed><datetime>20170713T000001,35+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000001,35+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name="$TITLE"><text>delete.png</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20110530T205243,10-04</datetime></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$ImageNames" sign="true"><text>delete.png</text></item>
+<item name="$Comment" sign="true"><text>For mypic</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+</note>

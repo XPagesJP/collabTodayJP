@@ -1,0 +1,26 @@
+.footerback {
+	width: 100.0%;
+	position: fixed;
+	bottom: 0;
+	background-color:#ffc000 !important;
+}
+.mobilemenu {
+    border-width: 1px 0 0;
+    bottom: 0;
+    margin-bottom: 0;
+}
+.btn-navbar-footer {
+	margin-right: 5.8% !important;
+}
+/*
+ul > li {
+	display: inline-block;
+	padding: 10px;
+	text-align: center;
+}
+ul > li > a {
+	display: block;
+	color: #ffffff;
+	padding: 5px;
+}
+*/

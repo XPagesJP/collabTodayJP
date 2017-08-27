@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="22e" sequence="27" unid="455D2CC1AEB44E79C2257B2600344BB5">
+<created><datetime dst="true">20130306T123112,53+03</datetime></created>
+<modified><datetime>20170713T000001,37+09</datetime></modified>
+<revised><datetime>20161204T080826,88+09</datetime></revised>
+<lastaccessed><datetime>20170713T000001,37+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000001,37+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name="$Flags"><text>34C=Q</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20120824T134722,98+02</datetime></item>
+<item name="$Comment" sign="true"><text>2.0.4</text></item>
+<item name="$TITLE" sign="true"><text>bootstrap-2.0.4.combined.min.css</text></item>
+<item name="$MimeCharSet" sign="true"><text>UTF-8</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+
+
+
+
+<item name="$FileNames" sign="true"><text>bootstrap-2.0.4.combined.min.css</text></item></note>

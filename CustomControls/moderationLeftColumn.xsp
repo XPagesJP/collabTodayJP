@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xe="http://www.ibm.com/xsp/coreex">
+	<xp:this.resources>
+		<xp:script src="/Bookmarklet.jss" clientSide="false"></xp:script>
+	</xp:this.resources>
+	
+	<div class="sidebar-nav">
+		<ul class="nav nav-list hidden-phone hidden-tablet">
+	
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/home.xsp" && param.filter == null) "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="ホーム" id="link1" value="home.xsp"></xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/add.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="記事の追加" id="link3" value="add.xsp"></xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/mod.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="承認待ち" id="link2" value="mod.xsp">
+		</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li" rendered="#{javascript:configCache.isUserTopStoriesModerator(@UserName())}">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/modTopStories.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="トップストーリー" id="link6"
+				value="modTopStories.xsp">
+			</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li" rendered="#{javascript:configCache.isUserSpotlightModerator(@UserName())}">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/modSpotlight.xsp") "active"}]]></xp:this.styleClass>
+			<xp:link escape="true" text="スポットライト" id="link7" value="modSpotlight.xsp">
+			</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/modPopular.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="ポピュラー" id="link8" value="modPopular.xsp">
+		</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/modApproved.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="承認済み" id="link9" value="modApproved.xsp">
+		</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/authors.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="記事作成者" id="link4" value="authors.xsp">
+		</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/requestsOpen.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="リクエスト(Open)" id="link5"
+			value="requestsOpen.xsp">
+		</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/requestsClosed.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="リクエスト(Closed)" id="link10"
+			value="requestsClosed.xsp">
+		</xp:link>
+	</xp:panel>
+	<xp:panel tagName="li">
+		<xp:this.styleClass><![CDATA[#{javascript:if (view.getPageName()=="/admin.xsp") "active"}]]></xp:this.styleClass>
+		<xp:link escape="true" text="キャッシュ管理" id="link12"
+			value="admin.xsp">
+		</xp:link>
+	</xp:panel>
+	
+	</ul>
+	</div>
+	
+	<div class="sidebar-nav">
+		<ul class="nav nav-list hidden-phone hidden-tablet">
+			<li>
+				<xp:label value="Bookmarklet " style="font-weight:bold;"></xp:label>
+				<br></br>
+				<xp:label value="Drag and drop link onto browser's bookmark bar: "></xp:label>
+				<xp:link text="Add CT News" id="bookmarkletLink"
+					value="#{javascript:buildAddUrlBookmarkletCode(true);}"></xp:link>
+				<xe:tooltip id="tooltip1" dynamicContent="false" for="bookmarkletLink"
+					label="Drag and drop this link onto the browser's bookmark bar"></xe:tooltip>
+			</li>
+		</ul>
+	</div>
+	
+		
+</xp:view>

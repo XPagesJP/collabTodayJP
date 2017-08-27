@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="15a" sequence="44" unid="BA3A9F239872B0A2C1257A6200518079">
+<created><datetime dst="true">20120822T165013,05+02</datetime></created>
+<modified><datetime>20170713T000000,33+09</datetime></modified>
+<revised><datetime>20161204T080827,86+09</datetime></revised>
+<lastaccessed><datetime>20170713T000000,33+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000000,33+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name="$TITLE" sign="true"><text>collab2day.js</text></item>
+<item name="$Flags"><text>h534Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+<item name="$POID"><datetime dst="true">20130306T123115,86+03</datetime></item></note>

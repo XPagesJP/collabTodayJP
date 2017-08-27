@@ -1,0 +1,28 @@
+.newsEntryDiv h3 {
+	font-size: 16pt !important;
+	font-weight: normal !important;
+}
+.newsEntryImageDiv {
+	width:110.0px !important;
+}
+.newsEntryImageDiv .newsEntryImage {
+	height: 81.0px; !important;
+	width: 81.0px; !important;
+	border-radius: 50%;
+}
+
+.navbar-fixed-top {
+	position: fixed !important;
+}
+.brand {
+	padding-left: 25px !important;
+}
+.btn-navbar {
+	margin-right: 20px !important;
+}
+.page-header {
+	/*	margin-top: 120px !important;	*/
+}
+.sidebar-nav {
+	/*	margin-top: 65px !important;	*/
+}

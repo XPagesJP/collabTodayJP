@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.9'
+ replicaid='4925815B005265BB'>
+<noteinfo noteid='27e' unid='5EE2111C3B45DF30C2257B2600344C40' sequence='28'>
+<created><datetime dst='true'>20130306T123113,92+03</datetime></created>
+<modified><datetime>20170713T000001,77+09</datetime></modified>
+<revised><datetime>20161204T080826,54+09</datetime></revised>
+<lastaccessed><datetime>20170713T000001,77+09</datetime></lastaccessed>
+<addedtofile><datetime>20170713T000001,77+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name
+>CN=Domino Administrator/O=EFLAB</name></updatedby>
+<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>Request</text></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$DesignerVersion' sign='true'><text>8.5.3</text></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>Request</text></item>
+<item name='RCreationDate' summary='false' sign='true'>
+<rawitemdata type='400'>
+AAAAAAAAAAA=
+</rawitemdata></item>
+<item name='RSubject' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='REMail' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='RCategory' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='RBody' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='RState' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='$Fields'><textlist><text>RState</text><text>RBody</text><text
+>RCategory</text><text>REMail</text><text>RSubject</text><text>RCreationDate</text></textlist></item>
+<item name='$Body' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8IAAEAAAqBAoMEAQCF/xcA
+AQAACkNyZWF0aW9uIGRhdGU6IADdBgAA9//3/yQAAQAAgAAAoAVoAQAAAAAAAAAAZAAAAAAAAAAA
+AAAAAAD+/1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AHgAAAAAAABIgAMA
+AAAAAAECAgIBAQEBBwQAAAAAAAAAAAAAAAAAACAuLjqw/xQAAAAAAIAAAAAAAAAAAAAAAIr/MgCK
+AAAEADACAAAAAAAAAAEAAAoAAAAAAAAAAA0AAAAAAFJDcmVhdGlvbkRhdGUA0ggBAAAAAADSCAkA
+////AN4GAAD3/4X/KgABAAAKIGRhdGUgd2hlbiB0aGlzIGRvY3VtZW50IHdhcyBhZGRlZIECgwQB
+AIX/CAABAAAKgQKDBAEAhf8RAAEAAApTdWJqZWN0OiAA3QYAAIr//v9QAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAeAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAACK/ywAigAABQAwAgAAAAAAAAIBAAAKAAAAAAAAAAAIAAAAAABSU3ViamVjdGIOAQCEAAAA
+AAAAAAAA3gYAAIr/hf8IAAEAAAqBAoMEAQCF/wgAAQAACoECgwQBAIX/DwABAAAKRU1haWw6IADd
+BgAAiv/+/1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AHgAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIr/KgCKAAAFADACAAAAAAAAAgEAAAoAAAAAAAAA
+AAYAAAAAAFJFTWFpbGIOAQCEAAAAAAAAAAAA3gYAAIr/hf8IAAEAAAqBAoMEAQCF/wgAAQAACoEC
+gwQBAIX/EgABAAAKQ2F0ZWdvcnk6IN0GAACK//7/UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAHgAeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiv8uAIoA
+AAUAMAIAAAAAAAACAQAACgAAAAAAAAAACQAAAAAAUkNhdGVnb3J5AGIOAQCEAAAAAAAAAAAA3gYA
+AIr/hf8IAAEAAAqBAoMEAQCF/wgAAQAACoECgwQBAIX/DgABAAAKQm9keTog3QYAAIr//v9QAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAACK/yoAigAABQAwAgAAAAAAAAIBAAAKAAAAAAAAAAAFAAAAAABSQm9k
+eQBiDgEAhAAAAAAAAAAAAN4GAACK/4X/CAABAAAKgQKDBAEAhf8IAAEAAAqBAoMEAQCF/w8AAQAA
+ClN0YXRlOiAA3QYAAIr//v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAB4
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACK/yoAigAABQAwAgAAAAAAAAIB
+AAAKAAAAAAAAAAAGAAAAAABSU3RhdGViDgEAhAAAAAAAAAAAAN4GAACK/4X/CAABAAAKgQKDBAEA
+hf8IAAEAAAo=
+</rawitemdata></item>
+<item name='$PublicAccess' sign='true'><text>1</text></item>
+<item name='$Flags'><text>w</text></item></note>
+
