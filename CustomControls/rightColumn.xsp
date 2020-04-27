@@ -2,7 +2,7 @@
 <xp:view xmlns:xp="http://www.ibm.com/xsp/core">
 	<div class="well sidebar-nav">
 		<a class="twitter-timeline" data-width="400" data-height="600"
-			data-theme="dark" data-link-color="#FAB81E" href="https://twitter.com/Collab2day">Tweets by
+			data-theme="dark" data-link-color="#FAB81E" href="https://twitter.com/CollabNewsJapan">Tweets by
 			Collab2day</a>
 		<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
