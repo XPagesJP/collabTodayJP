@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="18e" sequence="9" unid="04110A663A0AF294C2257B2600344C03">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="192" sequence="10" unid="04110A663A0AF294C2257B2600344C03">
 <created><datetime dst="true">20130306T123113,31+03</datetime></created>
-<modified><datetime>20170713T000000,57+09</datetime></modified>
-<revised><datetime>20161204T080827,62+09</datetime></revised>
-<lastaccessed><datetime>20170713T000000,57+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000000,57+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130829,69+09</datetime></modified>
+<revised><datetime>20170830T124613,84+09</datetime></revised>
+<lastaccessed><datetime>20200427T130829,68+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130829,68+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name="$TITLE"><text>iconDateTimePicker.png</text></item>
 <item name="$Flags"><text>345CgQ</text></item>
 <item name="$FlagsExt" sign="true"><text>D</text></item>
 <item name="$FileModDT" sign="true"><datetime dst="true">20120919T071259,66+02</datetime></item>
-<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
 
 
 <item name="$FileNames" sign="true"><text>iconDateTimePicker.png</text></item></note>

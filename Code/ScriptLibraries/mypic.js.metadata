@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="16e" sequence="9" unid="070F06F9FCED21A185257ABB005850A1">
+<?xml version="1.0" encoding="UTF-8"?><note class="filter" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="172" sequence="10" unid="070F06F9FCED21A185257ABB005850A1">
 <created><datetime dst="true">20121119T120438,09-04</datetime></created>
-<modified><datetime>20170713T000000,43+09</datetime></modified>
-<revised><datetime>20161204T080827,48+09</datetime></revised>
-<lastaccessed><datetime>20170713T000000,43+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000000,43+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130829,55+09</datetime></modified>
+<revised><datetime>20170830T124616,31+09</datetime></revised>
+<lastaccessed><datetime>20200427T130829,54+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130829,54+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name="$TITLE" sign="true"><text>mypic.js</text></item>
 <item name="$Flags"><text>h534Q</text></item>
 <item name="$PublicAccess" sign="true"><text>1</text></item>
-<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
 
-<item name="$POID"><datetime dst="true">20130306T123115,68+03</datetime></item></note>
+<item name="$POID"><datetime>20170830T124616,31+09</datetime></item></note>

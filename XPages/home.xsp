@@ -70,6 +70,10 @@
 var sview = database.getView( "PersonSearch" );
 var sdoc = sview.getDocumentByKey( pid );
 return sdoc.getItemValueString( "ibmchampion" );}]]></xc:this.ibmchampion>
+					<xc:this.hclmaster><![CDATA[#{javascript:var pid = entryA.PID;
+var sview = database.getView( "PersonSearch" );
+var sdoc = sview.getDocumentByKey( pid );
+return sdoc.getItemValueString( "HCLMaster" );}]]></xc:this.hclmaster>
 				</xc:newsEntry>
 			</xp:repeat>
 		</xp:panel>

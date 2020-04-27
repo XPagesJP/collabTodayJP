@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.9'
- replicaid='4925815B005265BB'>
-<noteinfo noteid='13e' unid='53A7FDC42C53E576C1257A7C004E7267' sequence='20'>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='10.0' maintenanceversion='1.0'
+ replicaid='492585570016BFD8'>
+<noteinfo noteid='142' unid='53A7FDC42C53E576C1257A7C004E7267' sequence='21'>
 <created><datetime dst='true'>20120917T161650,95+02</datetime></created>
-<modified><datetime>20170713T000000,19+09</datetime></modified>
-<revised><datetime>20161204T080827,74+09</datetime></revised>
-<lastaccessed><datetime>20170713T000000,19+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000000,19+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name
->CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130829,31+09</datetime></modified>
+<revised><datetime>20170830T124617,12+09</datetime></revised>
+<lastaccessed><datetime>20200427T130829,30+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130829,30+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name='$FormulaClass' sign='true'><text>1</text></item>
 <item name='$TITLE' sign='true'><text>NewsAllByLink</text></item>
 <item name='$Index' sign='true'><text/></item>

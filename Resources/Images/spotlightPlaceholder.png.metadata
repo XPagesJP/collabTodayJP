@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="20a" sequence="26" unid="35F40FB889F51EC6C2257B2600344BC8">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1fa" sequence="27" unid="35F40FB889F51EC6C2257B2600344BC8">
 <created><datetime dst="true">20130306T123112,72+03</datetime></created>
-<modified><datetime>20170713T000001,19+09</datetime></modified>
-<revised><datetime>20161204T080826,70+09</datetime></revised>
-<lastaccessed><datetime>20170713T000001,19+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000001,19+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130830,21+09</datetime></modified>
+<revised><datetime>20170830T124620,32+09</datetime></revised>
+<lastaccessed><datetime>20200427T130830,20+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130830,20+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name="$TITLE"><text>spotlightPlaceholder.png</text></item>
 <item name="$FlagsExt" sign="true"><text>D</text></item>
 <item name="$ImagesWide" sign="true"><number>1</number></item>
@@ -16,6 +16,6 @@
 <item name="$ImageNames" sign="true"><text>spotlightPlaceholder.png</text></item>
 <item name="$EditFilePath" sign="true"><text>C:\Users\IBM_AD~1\AppData\Local\Temp\notes3A9A13\~spotlightPlaceholder.png</text></item>
 <item name="$Flags"><text>34CiQ$</text></item>
-<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
 
 </note>

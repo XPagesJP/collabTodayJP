@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="216" sequence="178" unid="3A1B3E4164201352C2257B2600344C77">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="206" sequence="132" unid="3A1B3E4164201352C2257B2600344C77">
 <created><datetime dst="true">20130306T123114,47+03</datetime></created>
-<modified><datetime>20170713T000001,25+09</datetime></modified>
-<revised><datetime>20170212T113459,41+09</datetime></revised>
-<lastaccessed><datetime>20170713T000001,25+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000001,25+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130830,27+09</datetime></modified>
+<revised><datetime>20200303T085526,34+09</datetime></revised>
+<lastaccessed><datetime>20200427T130830,26+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130830,26+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=XPages Admin/O=XPages</name></updatedby>
+<wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name="$Flags"><text>gC~4;</text></item>
 <item name="$TITLE" sign="true"><text>rightColumn.xsp</text></item>
 
 
 
 
-
-<item name="$DesignerVersion" sign="true"><text>8.5</text></item>
-
-
 <item name="$FileNames" sign="true"><text>rightColumn.xsp</text></item>
+
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
 
 </note>

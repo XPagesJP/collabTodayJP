@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="1da" sequence="27" unid="1DA4BE108294AE8DC2257B2600344BEC">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1ce" sequence="28" unid="1DA4BE108294AE8DC2257B2600344BEC">
 <created><datetime dst="true">20130306T123113,08+03</datetime></created>
-<modified><datetime>20170713T000000,95+09</datetime></modified>
-<revised><datetime>20161204T080827,20+09</datetime></revised>
-<lastaccessed><datetime>20170713T000000,95+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000000,95+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130829,99+09</datetime></modified>
+<revised><datetime>20170830T124610,33+09</datetime></revised>
+<lastaccessed><datetime>20200427T130829,98+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130829,98+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name="$FlagsExt" sign="true"><text>D</text></item>
 <item name="$ImagesWide" sign="true"><number>1</number></item>
 <item name="$ImagesHigh" sign="true"><number>1</number></item>
@@ -16,6 +16,6 @@
 <item name="$ImageNames" sign="true"><text>OpenNTFLogo.png</text></item>
 <item name="$Flags"><text>34CiQ$</text></item>
 <item name="$EditFilePath" sign="true"><text>C:\Users\ADMINI~1\AppData\Local\Temp\notes87944B\~OpenNTFLogo.png</text></item>
-<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
 
 </note>

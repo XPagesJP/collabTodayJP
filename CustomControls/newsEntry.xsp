@@ -69,7 +69,7 @@ dojo.byId("#{id:collapseDiv}").style.display = "none";]]></xp:this.script>
 						</xp:eventHandler>
 					</xp:link>
 					<xp:image url="/champion_24x24.png" style="margin-left:5.0px"><xp:this.rendered><![CDATA[#{javascript:compositeData.ibmchampion == "Yes"}]]></xp:this.rendered></xp:image>
-					</h3>
+					<xp:image url="/HCL-Master_24x24.png" id="image2"><xp:this.rendered><![CDATA[#{javascript:compositeData.hclmaster == "Yes"}]]></xp:this.rendered></xp:image></h3>
 				<p>
 					<small>
 						<xp:text value="#{javascript:compositeData.personDisplayName}"></xp:text>

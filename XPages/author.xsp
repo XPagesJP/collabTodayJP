@@ -265,6 +265,18 @@
 					<xp:selectItem itemLabel="No"></xp:selectItem>
 				</xp:comboBox></td>
 			</tr>
+			<tr>
+				<td>
+					<xp:label value="HCL Master" id="hclMaster_Label1" for="hclMaster1"></xp:label>
+				</td>
+				<td>
+					<xp:comboBox id="hclMaster1"
+						value="#{document11.HCLMaster}">
+						<xp:selectItem itemLabel="Yes"></xp:selectItem>
+						<xp:selectItem itemLabel="No"></xp:selectItem>
+					</xp:comboBox>
+				</td>
+			</tr>
 		</xp:table>
 	</xc:moderationLayout>
 </xp:view>

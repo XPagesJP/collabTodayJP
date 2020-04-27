@@ -51,6 +51,12 @@
 					</xp:viewColumnHeader>
 				</xp:this.facets>
 			</xp:viewColumn>
-		</xp:viewPanel>
+			<xp:viewColumn id="viewColumn5" columnName="HCLMaster">
+				<xp:this.facets>
+					<xp:viewColumnHeader xp:key="header"
+						id="viewColumnHeader5" value="HCLMaster">
+					</xp:viewColumnHeader>
+				</xp:this.facets>
+			</xp:viewColumn></xp:viewPanel>
 	</xc:moderationLayout>
 </xp:view>

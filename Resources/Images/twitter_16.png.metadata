@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="386" sequence="23" unid="EAEC81D3A5361411C2257B2600344BBF">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="33a" sequence="24" unid="EAEC81D3A5361411C2257B2600344BBF">
 <created><datetime dst="true">20130306T123112,63+03</datetime></created>
-<modified><datetime>20170713T000003,09+09</datetime></modified>
-<revised><datetime>20161204T080824,96+09</datetime></revised>
-<lastaccessed><datetime>20170713T000003,09+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000003,09+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Serdar Basegmez/O=developi</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130831,81+09</datetime></modified>
+<revised><datetime>20170830T124620,79+09</datetime></revised>
+<lastaccessed><datetime>20200427T130831,80+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130831,80+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name="$TITLE"><text>twitter_16.png</text></item>
 <item name="$FlagsExt" sign="true"><text>D</text></item>
 <item name="$ImagesWide" sign="true"><number>1</number></item>
@@ -15,6 +15,6 @@
 <item name="$FileModDT" sign="true"><datetime dst="true">20120802T141541,00-07</datetime></item>
 <item name="$Flags"><text>D34CiQ</text></item>
 <item name="$ImageNames" sign="true"><text>twitter_16.PNG</text></item>
-<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
 
 </note>

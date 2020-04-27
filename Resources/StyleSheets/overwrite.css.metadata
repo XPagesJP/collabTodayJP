@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.9" replicaid="4925815B005265BB" version="9.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="3be" sequence="46" unid="FE99AF7F4D673F42492580C5000A83FC">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="37a" sequence="47" unid="FE99AF7F4D673F42492580C5000A83FC">
 <created><datetime>20170212T105451,48+09</datetime></created>
-<modified><datetime>20170827T125749,75+09</datetime></modified>
-<revised><datetime>20170827T125749,74+09</datetime></revised>
-<lastaccessed><datetime>20170827T125749,75+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000003,37+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Domino Administrator/O=EFLAB</name><name>CN=admin liveness/O=liveness</name><name>CN=Admin Domino/O=MLUG</name><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130832,13+09</datetime></modified>
+<revised><datetime>20170830T124619,01+09</datetime></revised>
+<lastaccessed><datetime>20200427T130832,12+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130832,12+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></updatedby>
+<wassignedby><name>CN=Atsushi Sato/OU=Japan/O=IBM</name></wassignedby>
 <item name="$TITLE"><text>overwrite.css</text></item>
 <item name="$MimeType" sign="true"><text>text/css</text></item>
 <item name="$Flags"><text>34C=Q</text></item>
 <item name="$MimeCharSet" sign="true"><text>UTF-8</text></item>
-<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
 
 
 <item name="$FileNames" sign="true"><text>overwrite.css</text></item></note>

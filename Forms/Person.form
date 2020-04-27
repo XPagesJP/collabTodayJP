@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.9'
- replicaid='4925815B005265BB'>
-<noteinfo noteid='23a' unid='4D5020D4E679AFAEC2257B2600344C46' sequence='42'>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='10.0' maintenanceversion='1.0'
+ replicaid='492585570016BFD8'>
+<noteinfo noteid='222' unid='4D5020D4E679AFAEC2257B2600344C46' sequence='40'>
 <created><datetime dst='true'>20130306T123113,98+03</datetime></created>
-<modified><datetime>20170827T125750,53+09</datetime></modified>
-<revised><datetime>20170827T125750,52+09</datetime></revised>
-<lastaccessed><datetime>20170827T125750,53+09</datetime></lastaccessed>
-<addedtofile><datetime>20170713T000001,43+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Domino Administrator/O=EFLAB</name></updatedby>
-<wassignedby><name>CN=Domino Administrator/O=EFLAB</name></wassignedby>
+<modified><datetime>20200427T130830,41+09</datetime></modified>
+<revised><datetime>20200303T090544,87+09</datetime></revised>
+<lastaccessed><datetime>20200427T130830,40+09</datetime></lastaccessed>
+<addedtofile><datetime>20200427T130830,40+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
+<wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name='$Comment' sign='true'><text/></item>
 <item name='PCreated' summary='false' sign='true'>
 <rawitemdata type='400'>
@@ -24,12 +24,12 @@ X/8QAAIADwAHAAAAAAAAAA==
 hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
 </rawitemdata></item>
 <item name='$Flags'><text>w</text></item>
-<item name='$DesignerVersion' sign='true'><text>8.5.3</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
 <item name='$$ScriptName' summary='false' sign='true'><text>Person</text></item>
 <item name='PID' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
-<item name='PCreationDate' summary='false' sign='true'>
+<item name='PCreationDate' summary='false'>
 <rawitemdata type='400'>
 AAAAAAAAAAA=
 </rawitemdata></item>
@@ -72,11 +72,14 @@ AAAAAAAAAAA=
 <item name='currentMypic' placeholder='true'>
 <rawitemdata type='0'>
 </rawitemdata></item>
-<item name='$Fields'><textlist><text>CurrentMypic</text><text>MypicNames</text><text
->Mypics</text><text>IBMChampion</text><text>PPictureURL</text><text>PPictureType</text><text
->PEMail</text><text>PLotusRegistration</text><text>POpenNTF</text><text>PLinkedIn</text><text
->PStackOverflow</text><text>PTwitter</text><text>PDisplayName</text><text
->PCreationDate</text><text>PID</text></textlist></item>
+<item name='HCLMaster' placeholder='true'>
+<rawitemdata type='0'>
+</rawitemdata></item>
+<item name='$Fields'><textlist><text>HCLMaster</text><text>CurrentMypic</text><text
+>MypicNames</text><text>Mypics</text><text>IBMChampion</text><text>PPictureURL</text><text
+>PPictureType</text><text>PEMail</text><text>PLotusRegistration</text><text
+>POpenNTF</text><text>PLinkedIn</text><text>PStackOverflow</text><text>PTwitter</text><text
+>PDisplayName</text><text>PCreationDate</text><text>PID</text></textlist></item>
 <item name='$Body' sign='true'>
 <rawitemdata type='1'>
 gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -130,16 +133,20 @@ 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
-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
+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
 </rawitemdata></item></note>
 
