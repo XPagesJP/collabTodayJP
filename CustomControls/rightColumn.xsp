@@ -3,7 +3,7 @@
 	<div class="well sidebar-nav">
 		<a class="twitter-timeline" data-width="400" data-height="600"
 			data-theme="dark" data-link-color="#FAB81E" href="https://twitter.com/CollabNewsJapan">Tweets by
-			Collab2day</a>
+			CollabNewsJapan</a>
 		<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
 </xp:view>
