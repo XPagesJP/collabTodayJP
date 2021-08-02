@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='10.0'
- maintenanceversion='1.0' replicaid='492585570016BFD8'>
-<noteinfo noteid='11e' unid='ADB7A45D56757D92C1257A4100254423' sequence='12'>
-<created><datetime dst='true'>20120720T084702,75+02</datetime></created>
-<modified><datetime>20200427T130833,15+09</datetime></modified>
-<revised><datetime>20200427T130833,14+09</datetime></revised>
-<lastaccessed><datetime>20200427T130833,14+09</datetime></lastaccessed>
-<addedtofile><datetime>20200427T130829,12+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Bruce Elgort/O=Sharepoint</name><name
->CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Per Henrik Lausten/O=PHL Consult</name><name
->CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name
->CN=NotesOSS1/O=NotesOSS</name><name>CN=XPages Admin/O=XPages</name><name
->CN=Domino Administrator/O=EF10</name></updatedby>
+ maintenanceversion='1.0' replicaid='49258725004FFD13'>
+<noteinfo noteid='11e' unid='5A58913B371E6E2F49258725004FFD17' sequence='9'>
+<created><datetime>20210802T233341,35+09</datetime></created>
+<modified><datetime>20210802T233932,60+09</datetime></modified>
+<revised><datetime>20210802T233932,59+09</datetime></revised>
+<lastaccessed><datetime>20210802T233932,59+09</datetime></lastaccessed>
+<addedtofile><datetime>20210802T233341,37+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
+<wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name='IconBitmap' summary='true'>
 <rawitemdata type='6'>
 AiAgAQAA///////wD///gAH//gAAf/wAAD/4AAAf8AAAD+AAAAfgAAAHwAAAA8AAAAPAAAADgAAA
@@ -37,5 +34,6 @@ AAAAUEECICABAAD/////+A4DgA==
 <item name='$FlagsNoRefresh'><text/></item>
 <item name='$Flags'><text>J7!qNZ</text></item>
 <item name='$Daos'><text>0</text></item>
-<item name='$TITLE'><text>[NTF] Collaboration Today JP</text></item></note>
+<item name='$TITLE'><text>[NTF] DX Today JP
+</text></item></note>
 

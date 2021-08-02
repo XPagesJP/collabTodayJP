@@ -9,7 +9,7 @@
 					<span class="icon-bar"></span>
 				</a>
 				<a class="brand" href="/">
-					Collaboration Today じゃぱ～～ん！
+					DX Today じゃぱ～～ん！
 				</a>
 				<!-- Dropdown for Categories for tablet only -->
 				<xp:panel tagName="ul" styleClass="nav nav-pills visible-tablet"
