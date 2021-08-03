@@ -6,7 +6,7 @@
 		<xp:styleSheet href="/view.css" />
 	</xp:this.resources>
 
-	<xp:this.pageTitle><![CDATA[#{javascript:return "記事作成者 | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+	<xp:this.pageTitle><![CDATA[#{javascript:return "記事作成者 | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<xc:moderationLayout pageHeader="Authors">
 		<xp:this.facets>
 			<xc:moderationLeftColumn xp:key="leftColumn" />

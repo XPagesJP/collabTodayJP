@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xp:view xmlns:xe="http://www.ibm.com/xsp/coreex" xmlns:xp="http://www.ibm.com/xsp/core"
 	xmlns:xc="http://www.ibm.com/xsp/custom" xmlns:zonsf="http://www.zetaone.com/xsp-core"
-	pageTitle="Author | Collaboration Today">
+	pageTitle="Author | DX Today">
 	<xp:this.data>
 		<xp:dominoDocument var="document11" formName="Person"
 			action="editDocument">

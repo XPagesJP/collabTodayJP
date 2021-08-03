@@ -4,13 +4,13 @@
 
 	<xp:this.pageTitle><![CDATA[${javascript:
 		if (!param.filter) {
-			return "トップストーリー | Collaboration Today じゃぱ～～ん！";
+			return "トップストーリー | DX Today じゃぱ～～ん！";
 		} else if (param.filter == "all") {
-			return "最近のニュース | Collaboration Today じゃぱ～～ん！";
+			return "最近のニュース | DX Today じゃぱ～～ん！";
 		} else if (param.filter == "popular") {
-			return "人気のニュース | Collaboration Today じゃぱ～～ん！";
+			return "人気のニュース | DX Today じゃぱ～～ん！";
 		} else if (param.filter != "all" && param.filter != "popular")  {
-			return configCache.getCategory(configCache.getType(param.filter).getCategoryId()).getDisplayName() + " - " + configCache.getType(param.filter).getDisplayName() + " | Collaboration Today　じゃぱ～～ん！";
+			return configCache.getCategory(configCache.getType(param.filter).getCategoryId()).getDisplayName() + " - " + configCache.getType(param.filter).getDisplayName() + " | DX Today　じゃぱ～～ん！";
 		}
 	}]]></xp:this.pageTitle>
 
@@ -31,7 +31,7 @@
 			<!-- <xc:pageHeader value="Recent" loaded="${param.filter == 'all'}"/>  -->
 			<xc:pageHeader value="最近のニュース" loaded="true" />
 			<!-- <xc:pageHeader value="${javascript:configCache.getType(param.filter).getDisplayName()}" loaded="${param.filter != 'all'}"/> -->
-			
+
 
 			<xp:repeat id="r1" var="entryA" rows="30"
 				removeRepeat="true">

@@ -4,7 +4,7 @@
 	<xp:this.data>
 		<xp:dominoDocument var="document1" formName="Request"></xp:dominoDocument>
 	</xp:this.data>
-	<xp:this.pageTitle><![CDATA[#{javascript:return "コンタクト | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+	<xp:this.pageTitle><![CDATA[#{javascript:return "コンタクト | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<style>
 		#recaptcha_bg_image { /*width: 410px !important;*/ }
 		#recaptcha_response_field { left: 35px !important; /* top: 118px
@@ -23,7 +23,7 @@
 		</xp:this.facets>
 		<div class="well">
 			<h1>
-				<small>Contact Collaboration Today</small>
+				<small>Contact DX Today</small>
 			</h1>
 			<xp:br></xp:br>
 			<xp:table styleClass="contact" style="width:100%">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xe="http://www.ibm.com/xsp/coreex" pageTitle="Moderation | Collaboration Today"
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" xmlns:xe="http://www.ibm.com/xsp/coreex" pageTitle="Moderation | DX Today"
 	xmlns:xc="http://www.ibm.com/xsp/custom" dojoParseOnLoad="true">
 	<xp:this.resources>
 		<xp:styleSheet href="/.ibmxspres/dojoroot/dojox/image/resources/Lightbox.css"></xp:styleSheet>

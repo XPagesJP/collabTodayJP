@@ -7,7 +7,7 @@
 		<xp:styleSheet href="/view.css" />
 	</xp:this.resources>
 
-	<xp:this.pageTitle><![CDATA[#{javascript:return "リクエスト(Open) | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+	<xp:this.pageTitle><![CDATA[#{javascript:return "リクエスト(Open) | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<xc:moderationLayout pageHeader="Open Requests">
 		<xp:this.facets>
 			<xc:moderationLeftColumn xp:key="leftColumn" />

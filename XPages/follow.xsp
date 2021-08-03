@@ -2,7 +2,7 @@
 <xp:view xmlns:xp="http://www.ibm.com/xsp/core"
 	xmlns:xc="http://www.ibm.com/xsp/custom">
 	<xp:this.pageTitle><![CDATA[#{javascript:
-		return "フォロー | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+		return "フォロー | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<xc:layout>
 		<xp:this.facets>
 			<xc:rightColumn xp:key="rightColumn"></xc:rightColumn>
@@ -11,19 +11,21 @@
 
 		<div class="well">
 			<h1>
-				<small>Stay Connected with Collaboration Today</small>
+				<small>Stay Connected with DX Today</small>
 			</h1>
 
 			<h2>
 				<small>Twitter</small>
 			</h2>
-			<xp:link text="@CollabNewsJapan (日本語版)">
-				<xp:this.value><![CDATA[#{javascript:"https://twitter.com/CollabNewsJapan"}]]></xp:this.value>
-			</xp:link>
+			<xp:link text="@DXTodayJapan" target="_blank">
+
+			<xp:this.value><![CDATA[#{javascript:"https://twitter.com/DXTodayJapan"}]]></xp:this.value></xp:link>
 			<xp:br></xp:br>
+			<!-- 
 			<xp:link text="@collab2day (英語版)">
 				<xp:this.value><![CDATA[#{javascript:"https://twitter.com/collab2day"}]]></xp:this.value>
 			</xp:link>
+			 -->
 			<xp:br></xp:br>
 			<xp:br></xp:br>
 
@@ -103,7 +105,7 @@
 			<p>There is a REST API available to access news entries.</p>
 			<p>
 				<span class="label">Base URL</span>
-				&#160;http://collaborationtoday.info/api.xsp
+				&#160;https://www.xpages.jp/Japan/ctjp.nsf/api.xsp
 			</p>
 			<p>
 				<span class="label">URL parameter 'filter'</span>

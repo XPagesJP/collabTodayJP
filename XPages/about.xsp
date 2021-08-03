@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xp:view xmlns:xp="http://www.ibm.com/xsp/core"
 	xmlns:xc="http://www.ibm.com/xsp/custom">
-	<xp:this.pageTitle><![CDATA[#{javascript:return "サイトについて | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+	<xp:this.pageTitle><![CDATA[#{javascript:return "サイトについて | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<xc:layout>
 		<xp:this.facets>
 			<xc:rightColumn xp:key="rightColumn" />
 		</xp:this.facets>
 		<div class="well">
 			<h1>
-				<small>About Collaboration Today</small>
+				<small>About DX Today</small>
 			</h1>
 			<h2>
 				<small>Content</small>
 			</h2>
 			<p>
-				Collaboration Today is a news aggregator for&#160;
-				<xp:link text="IBM Collaboration Solutions"
+				DX Today is a news aggregator for&#160;
+				<xp:link text="HCL Digital Solutions"
 					themeId="Link.Lotus" />
 				&#160;professionals covering news about various IBM
 				products like IBM Connections, IBM Lotus Domino, IBM
@@ -48,7 +48,7 @@
 				over&#160;the last seven days.
 			</p>
 			<p>
-				In addition to visiting the Collaboration Today web site
+				In addition to visiting the DX Today web site
 				via web&#160;browsers, smartphones and tablets, you can
 				also&#160;
 				<xp:link text="follow" themeId="Link.Follow" />
@@ -60,11 +60,11 @@
 				<small>Moderation</small>
 			</h2>
 			<p>
-				Collaboration Today is owned by&#160;
+				DX Today is owned by&#160;
 				<xp:link text="OpenNTF Inc."
 					value="http://openntf.org/Internal/home.nsf/dx/About_openNTF" />
 				, a group of 31 member companies who are leveraging IBM
-				Collaboration Solutions technologies, and hosted
+				DX Solutions technologies, and hosted
 				by&#160;
 				<xp:link text="Prominic.NET"
 					value="http://prominic.net/" />
@@ -106,7 +106,7 @@
 				<br></br>
 			</xp:repeat>
 			<p>
-				Collaboration Today was created by Bruce Elgort, Per
+				DX Today was created by Bruce Elgort, Per
 				Henrik Lausten, Serdar Basegmez, Frank van der Linden
 				and Niklas Heidloff in the summer of 2012.
 			</p>

@@ -5,7 +5,7 @@
 	<!-- TODO: move inline style out to a separate file -->
 	<!-- TODO: switch from sessionScope to viewScope if possible -->
 
-	<xp:this.pageTitle><![CDATA[#{javascript:return "記事の追加 | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+	<xp:this.pageTitle><![CDATA[#{javascript:return "記事の追加 | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<style>
 		.lotusTitleBar h2.lotusEllipsis { width: 380px; } .xspPagerRight
 		{ color: #848484; float: left;}

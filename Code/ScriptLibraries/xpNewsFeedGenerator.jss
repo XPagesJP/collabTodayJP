@@ -346,8 +346,8 @@ function NotesDataService()
 	{
 		var feedInfo = new Object();
 
-		FEED_TITLE = "Collaboration Today";
-		FEED_SUBTITLE = "News about IBM Collaboration Solutions";
+		FEED_TITLE = "DX Today";
+		FEED_SUBTITLE = "News about HCL DX Solutions";
 		FEED_LINK = "http://collaborationtoday.info";
 		FEED_LINK_SELF = "http://collaborationtoday.info";
 

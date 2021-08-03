@@ -3,7 +3,7 @@
 	xmlns:xp="http://www.ibm.com/xsp/core"
 	xmlns:xc="http://www.ibm.com/xsp/custom">
 
-	<xp:this.pageTitle><![CDATA[#{javascript:return "ポプラ―の承認 | Collaboration Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
+	<xp:this.pageTitle><![CDATA[#{javascript:return "ポプラ―の承認 | DX Today じゃぱ～～ん！";}]]></xp:this.pageTitle>
 	<xc:moderationLayout
 		pageHeader="News Entries - Approved / Moderated - Popular">
 		<xp:this.facets>
