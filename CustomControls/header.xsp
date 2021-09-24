@@ -30,6 +30,7 @@
 						<li class="${javascript:view.pageName == '/home.xsp' ? 'active' : ''}">
 							<xp:link text="ホーム" themeId="Link.Home" />
 						</li>
+						<!-- 
 						<li class="${javascript:view.pageName == '/follow.xsp' ? 'active' : ''}">
 							<xp:link text="フォロー" themeId="Link.Follow" />
 						</li>
@@ -37,6 +38,7 @@
 							class="${javascript:view.pageName == '/contact.xsp' ? 'active' : ''}">
 							<xp:link text="コンタクト" themeId="Link.Contact" />
 						</li>
+						 -->
 						<li class="${javascript:view.pageName == '/about.xsp' ? 'active' : ''}">
 							<xp:link text="サイトについて" themeId="Link.About" />
 						</li>

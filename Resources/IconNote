@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='10.0'
- maintenanceversion='1.0' replicaid='49258725004FFD13'>
-<noteinfo noteid='11e' unid='5A58913B371E6E2F49258725004FFD17' sequence='9'>
-<created><datetime>20210802T233341,35+09</datetime></created>
-<modified><datetime>20210802T233932,60+09</datetime></modified>
-<revised><datetime>20210802T233932,59+09</datetime></revised>
-<lastaccessed><datetime>20210802T233932,59+09</datetime></lastaccessed>
-<addedtofile><datetime>20210802T233341,37+09</datetime></addedtofile></noteinfo>
+ maintenanceversion='1.7' replicaid='4925875A0017AA16'>
+<noteinfo noteid='11e' unid='806112352DA88FCD4925875A0017AA19' sequence='11'>
+<created><datetime>20210924T131828,73+09</datetime></created>
+<modified><datetime>20210924T133655,28+09</datetime></modified>
+<revised><datetime>20210924T133655,27+09</datetime></revised>
+<lastaccessed><datetime>20210924T133655,27+09</datetime></lastaccessed>
+<addedtofile><datetime>20210924T131828,75+09</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
 <wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name='IconBitmap' summary='true'>
@@ -31,9 +31,10 @@ AAAAUEECICABAAD/////+A4DgA==
 <item name='$PIRCRefreshModTime'><datetime>20170830T124731,88+09</datetime></item>
 <item name='$TemplateModTime'><datetime>20170830T124716,12+09</datetime></item>
 <item name='$LargeSummary'><text>0</text></item>
-<item name='$FlagsNoRefresh'><text/></item>
-<item name='$Flags'><text>J7!qNZ</text></item>
 <item name='$Daos'><text>0</text></item>
+<item name='$Flags'><text>J7!qNZ</text></item>
+<item name='$LaunchXPageRunOnServer'><text>0</text></item>
+<item name='$FlagsNoRefresh'><text>v</text></item>
 <item name='$TITLE'><text>[NTF] DX Today JP
-</text></item></note>
+#1dxtodayjp</text></item></note>
 

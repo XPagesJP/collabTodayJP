@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="2ae" sequence="549" unid="994C88F6B6A5A6BCC2257B2600344D1C">
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.7" replicaid="4925875A0017AA16" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="24a" sequence="6" unid="994C88F6B6A5A6BCC2257B2600344D1C">
 <created><datetime dst="true">20130306T123116,12+03</datetime></created>
-<modified><datetime>20200427T130831,11+09</datetime></modified>
-<revised><datetime>20200303T085527,02+09</datetime></revised>
-<lastaccessed><datetime>20200427T130831,10+09</datetime></lastaccessed>
-<addedtofile><datetime>20200427T130831,10+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=XPages Admin/O=XPages</name></updatedby>
+<modified><datetime>20210924T131856,83+09</datetime></modified>
+<revised><datetime>20210924T131856,82+09</datetime></revised>
+<lastaccessed><datetime>20210924T131856,82+09</datetime></lastaccessed>
+<addedtofile><datetime>20210924T131834,56+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
 <wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name="$Flags"><text>34567Cg~[</text></item>
 <item name="$TITLE"><text>org/openntf/news/http/core/Parser.java</text></item>
