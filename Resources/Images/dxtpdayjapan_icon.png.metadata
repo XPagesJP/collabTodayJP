@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.7" replicaid="49258799000A84BA" version="10.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="45e" sequence="1" unid="BC3D027E4DE7CB8D49258799000AAF23">
+<created><datetime>20211126T105641,95+09</datetime></created>
+<modified><datetime>20211126T105641,98+09</datetime></modified>
+<revised><datetime>20211126T105641,97+09</datetime></revised>
+<lastaccessed><datetime>20211126T105641,97+09</datetime></lastaccessed>
+<addedtofile><datetime>20211126T105641,97+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
+<wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
+<item name="$TITLE"><text>dxtpdayjapan_icon.png</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$FlagsExt"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+
+
+
+<item name="$MimeType" sign="true"><text>image/png</text></item>
+<item name="$FileModDT" sign="true"><datetime>20211126T101627,96+09</datetime></item>
+<item name="$ImageNames" sign="true"><text>dxtpdayjapan_icon.png</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item></note>

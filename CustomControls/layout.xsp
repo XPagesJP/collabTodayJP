@@ -33,7 +33,7 @@
 		<xp:headTag tagName="meta" rendered="true" loaded="true">
 			<xp:this.attributes>
 				<xp:parameter name="property" value="og:image"/>
-				<xp:parameter name="content" value="http://collaborationtoday.info/collaborationtoday_icon.png"/>
+				<xp:parameter name="content" value="https://www.xpages.jp/Japan/ctjp.nsf/dxtpdayjapan_icon.png"/>
 			</xp:this.attributes>
 		</xp:headTag>
 	</xp:this.resources>
