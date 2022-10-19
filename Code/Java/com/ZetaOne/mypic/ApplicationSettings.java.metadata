@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="1b6" sequence="13" unid="185B98FE59880B3FC2257B2600344D5F">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" maintenanceversion="1.0" replicaid="492588E0004EAD0E" version="12.0">
+<noteinfo noteid="1fa" sequence="5" unid="185B98FE59880B3FC2257B2600344D5F">
 <created><datetime dst="true">20130306T123116,79+03</datetime></created>
-<modified><datetime>20200427T130829,87+09</datetime></modified>
-<revised><datetime>20200303T085526,58+09</datetime></revised>
-<lastaccessed><datetime>20200427T130829,86+09</datetime></lastaccessed>
-<addedtofile><datetime>20200427T130829,86+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=XPages Admin/O=XPages</name></updatedby>
+<modified><datetime>20221019T232110,14+09</datetime></modified>
+<revised><datetime>20221019T232110,13+09</datetime></revised>
+<lastaccessed><datetime>20221019T232110,13+09</datetime></lastaccessed>
+<addedtofile><datetime>20221019T232059,37+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
 <wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name="$Flags"><text>34567Cg~[</text></item>
 <item name="$TITLE"><text>com/ZetaOne/mypic/ApplicationSettings.java</text></item>

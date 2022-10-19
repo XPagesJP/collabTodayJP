@@ -60,6 +60,6 @@
       <renderer-class>com.ZetaOne.mypic.MypicCardRenderer</renderer-class>
     </renderer>
   </render-kit>
-  <!--AUTOGEN-START-BUILDER: IBM Domino Designer によって自動的に生成されます。 変更しないでください。-->
+  <!--AUTOGEN-START-BUILDER: HCL Domino Designer によって自動的に生成されます。 変更しないでください。-->
   <!--AUTOGEN-END-BUILDER: 自動的に生成されたセクションの終了-->
 </faces-config>

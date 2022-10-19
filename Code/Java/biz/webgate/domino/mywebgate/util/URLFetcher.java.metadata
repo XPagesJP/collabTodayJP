@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="492585570016BFD8" version="10.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="356" sequence="618" unid="FAA4DEDBC4481D32C2257B2600344D6A">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" maintenanceversion="1.0" replicaid="492588E0004EAD0E" version="12.0">
+<noteinfo noteid="1ea" sequence="5" unid="FAA4DEDBC4481D32C2257B2600344D6A">
 <created><datetime dst="true">20130306T123116,90+03</datetime></created>
-<modified><datetime>20200427T130831,95+09</datetime></modified>
-<revised><datetime>20200303T085526,50+09</datetime></revised>
-<lastaccessed><datetime>20200427T130831,94+09</datetime></lastaccessed>
-<addedtofile><datetime>20200427T130831,94+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Admin/O=LotusLab</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=XPages Admin/O=XPages</name></updatedby>
+<modified><datetime>20221019T232110,06+09</datetime></modified>
+<revised><datetime>20221019T232110,05+09</datetime></revised>
+<lastaccessed><datetime>20221019T232110,05+09</datetime></lastaccessed>
+<addedtofile><datetime>20221019T232059,25+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
 <wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name="$Flags"><text>34567Cg~[</text></item>
 <item name="$TITLE"><text>biz/webgate/domino/mywebgate/util/URLFetcher.java</text></item>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.7" replicaid="4925875A0017AA16" version="10.0" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="232" sequence="6" unid="9FF9AAAE2340EEBDC2257B2600344D2D">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" maintenanceversion="1.0" replicaid="492588E0004EAD0E" version="12.0">
+<noteinfo noteid="23a" sequence="5" unid="9FF9AAAE2340EEBDC2257B2600344D2D">
 <created><datetime dst="true">20130306T123116,29+03</datetime></created>
-<modified><datetime>20210924T131856,75+09</datetime></modified>
-<revised><datetime>20210924T131856,74+09</datetime></revised>
-<lastaccessed><datetime>20210924T131856,74+09</datetime></lastaccessed>
-<addedtofile><datetime>20210924T131834,20+09</datetime></addedtofile></noteinfo>
+<modified><datetime>20221019T232110,46+09</datetime></modified>
+<revised><datetime>20221019T232110,45+09</datetime></revised>
+<lastaccessed><datetime>20221019T232110,45+09</datetime></lastaccessed>
+<addedtofile><datetime>20221019T232100,09+09</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=XPages Admin/O=XPages</name></updatedby>
 <wassignedby><name>CN=XPages Admin/O=XPages</name></wassignedby>
 <item name="$Flags"><text>34567Cg~[</text></item>
