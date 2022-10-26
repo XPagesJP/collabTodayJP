@@ -47,7 +47,10 @@
 				<small>運営者</small>
 			</h2>
 			<p>
-				当サイトは「XPages.jpプロジェクト」が運営しています。
+				当サイトは「
+				<xp:link escape="true" text="XPages.jpプロジェクト" value="https://www.facebook.com/XPages.JP/about_details">
+				</xp:link>
+				」が運営しています。
 			</p>
 		</div>
 	</xc:layout>
