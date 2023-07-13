@@ -169,7 +169,8 @@ history.value = history.value + elem.value + "\n\n";]]></xp:this.script>
 					<xp:link text="#{javascript:document1.getItemValueString('NLink')}"
 						value="#{javascript:document1.getItemValueString('NLink')}">
 					</xp:link>
-				</xp:td>
+					<xp:br></xp:br>
+					<xp:inputText id="inputText6" style="width:500.0px" value="#{document1.NLink}"></xp:inputText></xp:td>
 			</xp:tr>
 			<xp:tr>
 				<xp:td>
